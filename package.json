@@ -1,0 +1,15 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "Kevin Zuniga Cuellar",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.31.4"
+  }
+}
