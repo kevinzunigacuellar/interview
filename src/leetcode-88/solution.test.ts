@@ -1,7 +1,5 @@
-import { assert, expect, test } from "vitest";
+import { expect, test } from "vitest";
 import { merge } from "./code";
-
-// Edit an assertion and save to see HMR in action
 
 test("Example 1", () => {
 	const nums1 = [1, 2, 3, 0, 0, 0];
