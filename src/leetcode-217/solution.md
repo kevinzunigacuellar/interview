@@ -1,4 +1,4 @@
-# Leetcode 217: Contains Duplicate
+# Leetcode 217 - Contains Duplicate
 
 > Problem URL: [https://leetcode.com/problems/contains-duplicate](https://leetcode.com/problems/contains-duplicate)
 

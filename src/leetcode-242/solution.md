@@ -1,4 +1,4 @@
-# Leetcode 242 Valid Anagram
+# Leetcode 242 - Valid Anagram
 
 > Problem URL: [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)
 

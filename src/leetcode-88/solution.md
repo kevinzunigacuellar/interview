@@ -1,4 +1,4 @@
-# Leetcode 88: Merge Sorted Array
+# Leetcode 88 - Merge Sorted Array
 
 > Problem URL: [https://leetcode.com/problems/merge-sorted-array/](https://leetcode.com/problems/merge-sorted-array/)
 

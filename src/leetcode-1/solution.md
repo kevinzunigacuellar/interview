@@ -1,4 +1,4 @@
-# Leetcode 1. Two Sum
+# Leetcode 1 - Two Sum
 
 > Problem URL: [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 

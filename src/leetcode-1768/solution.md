@@ -1,4 +1,4 @@
-# Leetcode 1768: Merge Strings Alternately
+# Leetcode 1768 - Merge Strings Alternately
 
 > Problem URL: [https://leetcode.com/problems/merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately)
 

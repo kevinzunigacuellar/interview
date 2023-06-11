@@ -1,4 +1,4 @@
-# Leetcode 80: Remove Duplicates from Sorted Array II
+# Leetcode 80 - Remove Duplicates from Sorted Array II
 
 > Problem URL: [https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 
