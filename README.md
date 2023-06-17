@@ -16,4 +16,5 @@
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | [TS](./src/leetcode-238/solution.md)  | Medium     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | [TS](./src/leetcode-347/solution.md)  | Medium     |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [TS](./src/leetcode-242/solution.md)  | Easy       |
+| 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | [TS](./src/leetcode-424/solution.md)  | Medium     |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)                                            | [TS](./src/leetcode-1768/solution.md) | Easy       |
