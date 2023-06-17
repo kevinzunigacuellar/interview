@@ -11,6 +11,7 @@
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)                 | [TS](./src/leetcode-80/solution.md)   | Medium     |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | [TS](./src/leetcode-88/solution.md)   | Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [TS](./src/leetcode-121/solution.md)  | Easy       |
+| 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)                            | [TS](./src/leetcode-167/solution.md)  | Medium     |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     | [TS](./src/leetcode-128/solution.md)  | Medium     |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [TS](./src/leetcode-217/solution.md)  | Easy       |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | [TS](./src/leetcode-238/solution.md)  | Medium     |
