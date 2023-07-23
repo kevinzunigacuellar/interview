@@ -7,24 +7,17 @@ func max(a, b int) int {
 	return b
 }
 
-
 func LengthOfLongestSubstring(s string) int {
+	m := make(map[rune]int)
 	var left, maxLen int
-	m := make(map[byte]int)
-
-	for right := 0; right < len(s); right++ {
-		ch := s[right]
-		val, ok := m[ch]
-
-		if ok {
+	for right, c := range s {
+		val, ok := m[c]
+		if ok && val >= left { // only update left if the repeated char is in the current window
 			left = val + 1
 		}
-
-		m[ch] = right
+		m[c] = right
 		maxLen = max(maxLen, right-left+1)
-		}
-
-	return maxLen
 	}
 
-	
+	return maxLen
+}
